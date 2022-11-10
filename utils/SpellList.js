@@ -125,7 +125,7 @@ const WaterDome = new Spell(
   "Up to 40ft Radius Sphere",
   "V, S",
   "1 Hour",
-  `A dome of water arises from a point you've chosen covering a designed radius. This dome totally obscures vision and provides total cover from projectiles. You choose up to 5 creatures that can easily cross the boundaries of the dome. Every other creature that wants to enter or leave the dome must make a Strength saving throw. On a failed saving throw the target takes 12d10 bludgeoning 0 and the target is pushed inwards or outwards. On a successful save the target takes 8d10 bludgeoning damage. The damage increases 1d10 & 1d10 damage for each level above the 8th.`,
+  `A dome of water arises from a point you've chosen covering a designed radius. This dome totally obscures vision and provides total cover from projectiles. You choose up to 5 creatures that can easily cross the boundaries of the dome. Every other creature that wants to enter or leave the dome must make a Strength saving throw. On a failed saving throw the target takes 12d10 magic bludgeoning damage and the target is pushed inwards or outwards. On a successful save the target takes half the damage. The damage increases 1d10 for each level above the 8th.`,
   3,
   "Steam Screen, Water Soul",
   "./assets/WaterDome.png"
