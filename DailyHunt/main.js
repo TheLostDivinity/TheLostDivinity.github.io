@@ -20,7 +20,7 @@ const seed = generateSeed();
 
 function seededRandom(seed, arr) {
   let random = Math.sin(seed) * 1000;
-  return Math.abs(Math.floor(random % arr.length) + 1);
+  return Math.abs(Math.floor(random % arr.length));
 }
 
 /// Filter the data.json
