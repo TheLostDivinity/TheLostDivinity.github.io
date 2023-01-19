@@ -6,12 +6,12 @@ function generateSeed() {
   const baseSeed = new Date();
 
   let DayIdentifier = "0" + (baseSeed.getDay() + 1).toString();
-  let MonthIdentifier =
-    baseSeed.getMonth() + 1 < 10 ? "0" + baseSeed.getMonth().toString : baseSeed.getMonth().toString();
-  let DateIdentifier = baseSeed.getDate() < 10 ? "0" + baseSeed.getDate().toString() : baseSeed.getDate().toString();
-  let YearIdentifier = (baseSeed.getFullYear() + 5).toString();
+  // let MonthIdentifier =
+  //   baseSeed.getMonth() + 1 < 10 ? "0" + baseSeed.getMonth().toString : baseSeed.getMonth().toString();
+  // let DateIdentifier = baseSeed.getDate() < 10 ? "0" + baseSeed.getDate().toString() : baseSeed.getDate().toString();
+  // let YearIdentifier = (baseSeed.getFullYear() + 5).toString();
 
-  let Seed = DayIdentifier + MonthIdentifier + DateIdentifier + YearIdentifier;
+  let Seed = DayIdentifier;
   console.log(Seed);
   return Seed;
 }
@@ -40,6 +40,8 @@ const hardMonsterIndex = seededRandom(seed, hardMonsters);
 const easyHunt = easyMonsters[easyMonsterIndex];
 const mediumHunt = mediumMonsters[mediumMonsterIndex];
 const hardHunt = hardMonsters[hardMonsterIndex];
+
+console.log(easyMonsterIndex);
 
 const easyHuntLocale = easyHunt.Locale[seededRandom(seed, easyHunt.Locale)];
 const mediumHuntLocale = mediumHunt.Locale[seededRandom(seed, mediumHunt.Locale)];
