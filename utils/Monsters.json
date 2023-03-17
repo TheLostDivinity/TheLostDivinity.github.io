@@ -3,92 +3,92 @@
     {
         "name": "Tetranadon",
         "CR": 6,
-        "Locale": ["Moon Swamp", "Moon Meadows"]
+        "Locale": ["Moon-Swamp", "Moon-Meadows"]
     },
     {
         "name": "Tetsucabra",
         "CR": 4,
-        "Locale": ["Moon Swamp"]
+        "Locale": ["Moon-Swamp"]
     },
     {
         "name": "Zamtrios",
         "CR": 5,
-        "Locale": ["Hoarfrost Peak"]
+        "Locale": ["Hoarfrost-Peak"]
     },
     {
         "name": "Aknossom",
         "CR": 6,
-        "Locale": ["Moon Meadows"]
+        "Locale": ["Moon-Meadows"]
     },
     {
         "name": "Gypceros",
         "CR": 8,
-        "Locale": ["Hoarfrost Peak", "Coral Highlands"]
+        "Locale": ["Hoarfrost-Peak", "Coral-Highlands"]
     },
     {
         "name": "Hypnocatrice",
         "CR": 4,
-        "Locale": ["Moon Meadows", "Moon Swamp"]
+        "Locale": ["Moon-Meadows", "Moon-Swamp"]
     },
     {
         "name": "Malfestio",
         "CR": 9,
-        "Locale": ["Moon Meadows", "Moon Swamp"]
+        "Locale": ["Moon-Meadows", "Moon-Swamp"]
     },
     {
         "name": "Silvermane Malfestio",
         "CR": 12,
-        "Locale": ["Hoarfrost Peak", "Coral Highlands"]
+        "Locale": ["Hoarfrost-Peak", "Coral-Highlands"]
     },
     {
         "name": "Qurupeco",
         "CR": 6,
-        "Locale": ["Moon Meadows", "Moon Swamp"]
+        "Locale": ["Moon-Meadows", "Moon-Swamp"]
     },
     {
         "name": "Pukei-Pukei",
         "CR": 4,
-        "Locale": ["Moon Meadows", "Moon Swamp"]
+        "Locale": ["Moon-Meadows", "Moon-Swamp"]
     },
     {
         "name": "Coral Pukei-Pukei",
         "CR": 10,
-        "Locale": ["Coral Highlands", "Moon Swamp"]
+        "Locale": ["Coral-Highlands", "Moon-Swamp"]
     },
     {
         "name": "Yian-Garuga",
         "CR": 7,
-        "Locale": ["Coral Highlands","Moon Meadows","Moon Swamp"]
+        "Locale": ["Coral-Highlands","Moon-Meadows","Moon-Swamp"]
     },
     {
         "name": "Scarred Yian-Garuga",
         "CR": 16,
-        "Locale": ["Coral Highlands", "Moon Swamp"]
+        "Locale": ["Coral-Highlands", "Moon-Swamp"]
     },
     {
         "name": "Yian Kut-kut",
         "CR": 2,
-        "Locale": ["Moon Meadows", "Moon Swamp"]
+        "Locale": ["Moon-Meadows", "Moon-Swamp"]
     },
     {
         "name": "Blue Yian Kut-kut",
         "CR": 5,
-        "Locale": ["Moon Meadows", "Moon Swamp", "Coral Highlands", "Hoarfrost Peak"]
+        "Locale": ["Moon-Meadows", "Moon-Swamp", "Coral-Highlands", "Hoarfrost-Peak"]
     },
     {
         "name": "Anjanath",
         "CR": 7,
-        "Locale": ["Moon Meadows", "Moon Swamp", "Coral Highlands"]
+        "Locale": ["Moon-Meadows", "Moon-Swamp", "Coral-Highlands"]
     },
     {
         "name": "Fulgur Anjanath",
         "CR": 16,
-        "Locale": ["Coral Highlands", "Hoarfrost Peak"]
+        "Locale": ["Coral-Highlands", "Hoarfrost-Peak"]
     },
     {
         "name": "Banbaro",
         "CR": 12,
-        "Locale": ["Hoarfrost Peak", "Coral Highlands"]
+        "Locale": ["Hoarfrost-Peak", "Coral-Highlands"]
     },
     {
         "name": "Brachydios",
@@ -103,37 +103,37 @@
     {
         "name": "Barroth",
         "CR": 4,
-        "Locale": ["Moon Meadows"]
+        "Locale": ["Moon-Meadows"]
     },
     {
         "name": "Jade Barroth",
         "CR": 8,
-        "Locale": ["Moon Meadows", "Coral Highlands"]
+        "Locale": ["Moon-Meadows", "Coral-Highlands"]
     },
     {
         "name": "Deviljho",
         "CR": 18,
-        "Locale": ["Moon Meadows", "Moon Swamp", "Coral Highlands", "Hoarfrost Peak"]
+        "Locale": ["Moon-Meadows", "Moon-Swamp", "Coral-Highlands", "Hoarfrost-Peak"]
     },
     {
         "name": "Duramboros",
         "CR": 9,
-        "Locale": ["Moon Meadows", "Moon Swamp"]
+        "Locale": ["Moon-Meadows", "Moon-Swamp"]
     },
     {
         "name": "Coral Duramboros",
         "CR": 12,
-        "Locale": ["Coral Highlands", "Hoarfrost Peak"]
+        "Locale": ["Coral-Highlands", "Hoarfrost-Peak"]
     },
     {
         "name": "Glavenus",
         "CR": 13,
-        "Locale": ["Moon Meadows", "Coral Highlands"]
+        "Locale": ["Moon-Meadows", "Coral-Highlands"]
     },
     {
         "name": "Acidic Glavenus",
         "CR": 19,
-        "Locale": ["Hoarfrost Peak"]
+        "Locale": ["Hoarfrost-Peak"]
     },
     {
         "name": "Radobaan",
@@ -148,7 +148,7 @@
     {
         "name": "Shogun Cenataur",
         "CR": 13,
-        "Locale": ["Moon Swamp"]
+        "Locale": ["Moon-Swamp"]
     },
     {
         "name": "Daimyo Hermitaur",
@@ -193,27 +193,27 @@
     {
         "name": "Chameleos",
         "CR": 14,
-        "Locale": ["Moon Swamp"]
+        "Locale": ["Moon-Swamp"]
     },
     {
         "name": "Tempered Chameleos",
         "CR": 19,
-        "Locale" : ["Moon Swamp"]
+        "Locale" : ["Moon-Swamp"]
     },
     {
         "name": "Risen Chameleos",
         "CR": 21,
-        "Locale" : ["Moon Swamp"]
+        "Locale" : ["Moon-Swamp"]
     },
     {
         "name": "Dalamadur",
         "CR": 18,
-        "Locale" : ["Hoarfrost Peak"]
+        "Locale" : ["Hoarfrost-Peak"]
     },
     {
         "name": "Shar Dalamadur",
         "CR": 30,
-        "Locale" : ["Hoarfrost Peak"]
+        "Locale" : ["Hoarfrost-Peak"]
     },
     {
         "name": "Dire Miralis",
@@ -278,17 +278,17 @@
     {
         "name": "Kirin",
         "CR": 12,
-        "Locale" : ["Hoarfrost Peak", "Coral Highlands"]
+        "Locale" : ["Hoarfrost-Peak", "Coral-Highlands"]
     },
     {
         "name": "Tempered Kirin",
         "CR": 19,
-        "Locale" : ["Hoarfrost Peak", "Coral Highlands"]
+        "Locale" : ["Hoarfrost-Peak", "Coral-Highlands"]
     },
     {
         "name": "Oroshi Kirin",
         "CR": 21,
-        "Locale" : ["Hoarfrost Peak", "Coral Highlands"]
+        "Locale" : ["Hoarfrost-Peak", "Coral-Highlands"]
     },
     {
         "name": "Kulve Taroth",
@@ -298,7 +298,7 @@
     {
         "name": "Kushala Daora",
         "CR": 15,
-        "Locale" : ["Moon Swamp", "Hoarfrost Peak", "Coral Highlands"]
+        "Locale" : ["Moon-Swamp", "Hoarfrost-Peak", "Coral-Highlands"]
     },
     {
         "name": "Lao-Shang-Lung",
@@ -318,7 +318,7 @@
     {
         "name": "Malzeno",
         "CR": 20,
-        "Locale" : ["Moon Swamp"]
+        "Locale" : ["Moon-Swamp"]
     },
     {
         "name": "Nakarkos",
@@ -328,17 +328,17 @@
     {
         "name": "Namielle",
         "CR": 14,
-        "Locale" : ["Moon Swamp", "Coral Highlands"]
+        "Locale" : ["Moon-Swamp", "Coral-Highlands"]
     },
     {
         "name": "Tempered Namielle",
         "CR": 19,
-        "Locale" : ["Moon Swamp", "Coral Highlands"]
+        "Locale" : ["Moon-Swamp", "Coral-Highlands"]
     },
     {
         "name": "Archtempered Namielle",
         "CR": 24,
-        "Locale" : ["Moon Swamp", "Coral Highlands"]
+        "Locale" : ["Moon-Swamp", "Coral-Highlands"]
     },
     {
         "name": "Lunarlight Namielle",
@@ -388,7 +388,7 @@
     {
         "name": "Blackveil Valha Zaak",
         "CR": 29,
-        "Locale" : ["Moon Swamp", "Hoarfrost Peak"]
+        "Locale" : ["Moon-Swamp", "Hoarfrost-Peak"]
     },
     {
         "name": "Valstrax",
@@ -403,17 +403,17 @@
     {
         "name": "Velkhana",
         "CR": 17,
-        "Locale" : ["Coral Highlands", "Hoarfrost Peak"]
+        "Locale" : ["Coral-Highlands", "Hoarfrost-Peak"]
     },
     {
         "name": "Tempered Velkhana",
         "CR": 22,
-        "Locale" : ["Coral Highlands", "Hoarfrost Peak"]
+        "Locale" : ["Coral-Highlands", "Hoarfrost-Peak"]
     },
     {
         "name": "Archtempered  Velkhana",
         "CR": 27,
-        "Locale" : ["Coral Highlands", "Hoarfrost Peak"]
+        "Locale" : ["Coral-Highlands", "Hoarfrost-Peak"]
     },
     {
         "name": "Wind Serpent Ibushi",
@@ -433,77 +433,77 @@
     {
         "name": "Arzuros",
         "CR": 4,
-        "Locale" : ["Moon Meadows", "Moon Swamp", "Hoarfrost Peak"]
+        "Locale" : ["Moon-Meadows", "Moon-Swamp", "Hoarfrost-Peak"]
     },
     {
         "name": "Bloodsoaked Arzuros",
         "CR": 11,
-        "Locale" : ["Moon Meadows", "Moon Swamp", "Hoarfrost Peak"]
+        "Locale" : ["Moon-Meadows", "Moon-Swamp", "Hoarfrost-Peak"]
     },
     {
         "name": "Bishaten",
         "CR": 7,
-        "Locale" : ["Moon Swamp", "Coral Highlands"]
+        "Locale" : ["Moon-Swamp", "Coral-Highlands"]
     },
     {
         "name": "Blood Orange Bishaten",
         "CR": 12,
-        "Locale" : ["Coral Highlands"]
+        "Locale" : ["Coral-Highlands"]
     },
     {
         "name": "Blangonga",
         "CR": 9,
-        "Locale" : ["Hoarfrost Peak", "Coral Highlands"]
+        "Locale" : ["Hoarfrost-Peak", "Coral-Highlands"]
     },
     {
         "name": "Bulldrome",
         "CR": 2,
-        "Locale" : ["Moon Meadows", "Moon Swamp","Coral Highlands","Hoarfrost Peak"]
+        "Locale" : ["Moon-Meadows", "Moon-Swamp","Coral-Highlands","Hoarfrost-Peak"]
     },
     {
         "name": "Congalala",
         "CR": 6,
-        "Locale" : ["Moon Swamp"]
+        "Locale" : ["Moon-Swamp"]
     },
     {
         "name": "Gammoth",
         "CR": 16,
-        "Locale" : ["Hoarfrost Peak", "Coral Highlands"]
+        "Locale" : ["Hoarfrost-Peak", "Coral-Highlands"]
     },
     {
         "name": "Garangolm",
         "CR": 16,
-        "Locale" : ["Moon Swamp"]
+        "Locale" : ["Moon-Swamp"]
     },
     {
         "name": "Goss Harag",
         "CR": 19,
-        "Locale" : ["Hoarfrost Peak", "Coral Highlands"]
+        "Locale" : ["Hoarfrost-Peak", "Coral-Highlands"]
     },
     {
         "name": "Kecha Wacha",
         "CR": 6,
-        "Locale" : ["Moon Meadows", "Moon Swamp"]
+        "Locale" : ["Moon-Meadows", "Moon-Swamp"]
     },
     {
         "name": "Lagombi",
         "CR": 3,
-        "Locale" : ["Hoarfrost Peak", "Coral Highlands"]
+        "Locale" : ["Hoarfrost-Peak", "Coral-Highlands"]
     },
     {
         "name": "Rajang",
         "CR": 15,
-        "Locale" : ["Hoarfrost Peak", "Coral Highlands", "Moon Meadows", "Moon Swamp"]
+        "Locale" : ["Hoarfrost-Peak", "Coral-Highlands", "Moon-Meadows", "Moon-Swamp"]
     },
     {
         "name": "Furious Rajang",
         "CR": 21,
-        "Locale" : ["Hoarfrost Peak", "Coral Highlands", "Moon Meadows", "Moon Swamp"]
+        "Locale" : ["Hoarfrost-Peak", "Coral-Highlands", "Moon-Meadows", "Moon-Swamp"]
     },
     {
         "name": "Volvidon",
         "CR": 5,
-        "Locale" : ["Moon Swamp"]
+        "Locale" : ["Moon-Swamp"]
     },
     {
         "name": "Dodogama",
@@ -513,22 +513,22 @@
     {
         "name": "Great Girros",
         "CR": 6,
-        "Locale" : ["Moon Swamp"]
+        "Locale" : ["Moon-Swamp"]
     },
     {
         "name": "Great Jagras",
         "CR": 4,
-        "Locale" : ["Moon Meadows", "Moon Swamp"]
+        "Locale" : ["Moon-Meadows", "Moon-Swamp"]
     },
     {
         "name": "Lunagaron",
         "CR": 19,
-        "Locale" : ["Hoarfrost Peak", "Coral Highlands"]
+        "Locale" : ["Hoarfrost-Peak", "Coral-Highlands"]
     },
     {
         "name": "Magnamalo",
         "CR": 17,
-        "Locale" : ["Hoarfrost Peak", "Coral Highlands", "Moon Meadows", "Moon Swamp"]
+        "Locale" : ["Hoarfrost-Peak", "Coral-Highlands", "Moon-Meadows", "Moon-Swamp"]
     },
     {
         "name": "Scorned Magnamalo",
@@ -538,32 +538,32 @@
     {
         "name": "Odogaron",
         "CR": 8,
-        "Locale" : ["Hoarfrost Peak", "Coral Highlands"]
+        "Locale" : ["Hoarfrost-Peak", "Coral-Highlands"]
     },
     {
         "name": "Ebony Odogaron",
         "CR": 12,
-        "Locale" : ["Hoarfrost Peak", "Coral Highlands"]
+        "Locale" : ["Hoarfrost-Peak", "Coral-Highlands"]
     },
     {
         "name": "Tobi-Kadachi",
         "CR": 6,
-        "Locale" : ["Moon Meadows", "Moon Swamp"]
+        "Locale" : ["Moon-Meadows", "Moon-Swamp"]
     },
     {
         "name": "Viper Tobi-Kadachi",
         "CR": 9,
-        "Locale" : ["Hoarfrost Peak", "Coral Highlands"]
+        "Locale" : ["Hoarfrost-Peak", "Coral-Highlands"]
     },
     {
         "name": "Zinogre",
         "CR": 10,
-        "Locale" : ["Hoarfrost Peak", "Coral Highlands", "Moon Meadows", "Moon Swamp"]
+        "Locale" : ["Hoarfrost-Peak", "Coral-Highlands", "Moon-Meadows", "Moon-Swamp"]
     },
     {
         "name": "Stygian Zinogre",
         "CR": 16,
-        "Locale" : ["Hoarfrost Peak", "Coral Highlands"]
+        "Locale" : ["Hoarfrost-Peak", "Coral-Highlands"]
     },
     {
         "name": "Akantor",
@@ -573,52 +573,52 @@
     {
         "name": "Astalos",
         "CR": 9,
-        "Locale" : ["Moon Swamp", "Moon Meadows"]
+        "Locale" : ["Moon-Swamp", "Moon-Meadows"]
     },
     {
         "name": "Tempered Astalos",
         "CR": 16,
-        "Locale" : ["Moon Swamp", "Moon Meadows"]
+        "Locale" : ["Moon-Swamp", "Moon-Meadows"]
     },
     {
         "name": "Barioth",
         "CR": 15,
-        "Locale" : ["Hoarfrost Peak", "Coral Highlands"]
+        "Locale" : ["Hoarfrost-Peak", "Coral-Highlands"]
     },
     {
         "name": "Frostfang Barioth",
         "CR": 20,
-        "Locale" : ["Hoarfrost Peak"]
+        "Locale" : ["Hoarfrost-Peak"]
     },
     {
         "name": "Basarios",
         "CR": 6,
-        "Locale" : ["Moon Swamp"]
+        "Locale" : ["Moon-Swamp"]
     },
     {
         "name": "Bazelguese",
         "CR": 17,
-        "Locale" : ["Hoarfrost Peak", "Coral Highlands", "Moon Meadows", "Moon Swamp"]
+        "Locale" : ["Hoarfrost-Peak", "Coral-Highlands", "Moon-Meadows", "Moon-Swamp"]
     },
     {
         "name": "Seething Bazelguese",
         "CR": 17,
-        "Locale" : ["Hoarfrost Peak", "Coral Highlands", "Moon Meadows", "Moon Swamp"]
+        "Locale" : ["Hoarfrost-Peak", "Coral-Highlands", "Moon-Meadows", "Moon-Swamp"]
     },
     {
         "name": "Espinas",
         "CR": 12,
-        "Locale" : ["Moon Swamp"]
+        "Locale" : ["Moon-Swamp"]
     },
     {
         "name": "Flaming Espinas",
         "CR": 15,
-        "Locale" : ["Moon Swamp"]
+        "Locale" : ["Moon-Swamp"]
     },
     {
         "name": "Tempered Espinas",
         "CR": 18,
-        "Locale" : ["Moon Swamp"]
+        "Locale" : ["Moon-Swamp"]
     },
     {
         "name": "Diablos",
@@ -633,12 +633,12 @@
     {
         "name": "Gigginox",
         "CR": 10,
-        "Locale" : ["Moon Swamp", "Hoarfrost Peak"]
+        "Locale" : ["Moon-Swamp", "Hoarfrost-Peak"]
     },
     {
         "name": "Chaotic Gigginox",
         "CR": 14,
-        "Locale" : ["Moon Swamp"]
+        "Locale" : ["Moon-Swamp"]
     },
     {
         "name": "Gravios",
@@ -648,17 +648,17 @@
     {
         "name": "Khezu",
         "CR": 10,
-        "Locale" : ["Hoarfrost Peak", "Coral Highlands"]
+        "Locale" : ["Hoarfrost-Peak", "Coral-Highlands"]
     },
     {
         "name": "Legiana",
         "CR": 13,
-        "Locale" : ["Coral Highlands", "Hoarfrost Peak"]
+        "Locale" : ["Coral-Highlands", "Hoarfrost-Peak"]
     },
     {
         "name": "Shrieking Legiana",
         "CR": 17,
-        "Locale" : ["Hoarfrost Peak"]
+        "Locale" : ["Hoarfrost-Peak"]
     },
     {
         "name": "Monoblos",
@@ -668,12 +668,12 @@
     {
         "name": "Nargacuga",
         "CR": 11,
-        "Locale" : ["Coral Highlands", "Moon Swamp"]
+        "Locale" : ["Coral-Highlands", "Moon-Swamp"]
     },
     {
         "name": "Silverwind Nargacuga",
         "CR": 19,
-        "Locale" : ["Coral Highlands", "Moon Swamp"]
+        "Locale" : ["Coral-Highlands", "Moon-Swamp"]
     },
     {
         "name": "Lucent Nargacuga",
@@ -683,22 +683,22 @@
     {
         "name": "Paolumu",
         "CR": 7,
-        "Locale" : ["Moon Meadows", "Coral Highlands"]
+        "Locale" : ["Moon-Meadows", "Coral-Highlands"]
     },
     {
         "name": "Nightshade Paolumu",
         "CR": 12,
-        "Locale" : ["Moon Swamp", "Coral Highlands"]
+        "Locale" : ["Moon-Swamp", "Coral-Highlands"]
     },
     {
         "name": "Rathalos",
         "CR": 10,
-        "Locale" : ["Moon Meadows", "Moon Swamp"]
+        "Locale" : ["Moon-Meadows", "Moon-Swamp"]
     },
     {
         "name": "Rathian",
         "CR": 8,
-        "Locale" : ["Moon Meadows", "Moon Swamp"]
+        "Locale" : ["Moon-Meadows", "Moon-Swamp"]
     },
     {
         "name": "Seregios",
@@ -713,12 +713,12 @@
     {
         "name": "Tigrex",
         "CR": 16,
-        "Locale" : ["Hoarfrost Peak", "Coral Highlands", "Moon Swamp", "Moon Meadows"]
+        "Locale" : ["Hoarfrost-Peak", "Coral-Highlands", "Moon-Swamp", "Moon-Meadows"]
     },
     {
         "name": "Brute Tigrex",
         "CR": 20,
-        "Locale" : ["Moon Meadows", "Moon Swamp", "Hoarfrost Peak", "Coral Highlands"]
+        "Locale" : ["Moon-Meadows", "Moon-Swamp", "Hoarfrost-Peak", "Coral-Highlands"]
     },
     {
         "name": "Ukanlos",
@@ -728,7 +728,7 @@
     {
         "name": "Almudron",
         "CR": 15,
-        "Locale" : ["Moon Swamp"]
+        "Locale" : ["Moon-Swamp"]
     },
     {
         "name": "Magma Almudron",
@@ -738,7 +738,7 @@
     {
         "name": "Gobul",
         "CR": 7,
-        "Locale" : ["Moon Swamp"]
+        "Locale" : ["Moon-Swamp"]
     },
     {
         "name": "Lagiacrus",
@@ -748,17 +748,17 @@
     {
         "name": "Royal Ludroth",
         "CR": 5,
-        "Locale" : ["Moon Swamp"]
+        "Locale" : ["Moon-Swamp"]
     },
     {
         "name": "Mizutsune",
         "CR": 11,
-        "Locale" : ["Moon Swamp"]
+        "Locale" : ["Moon-Swamp"]
     },
     {
         "name": "Violet Mizutsune",
         "CR": 15,
-        "Locale" : ["Moon Swamp"]
+        "Locale" : ["Moon-Swamp"]
     },
     {
         "name": "Nibelsnarf",
@@ -768,12 +768,12 @@
     {
         "name": "Somnacanth",
         "CR": 10,
-        "Locale" : ["Moon Swamp"]
+        "Locale" : ["Moon-Swamp"]
     },
     {
         "name": "Aurora Somnacanth",
         "CR": 14,
-        "Locale" : ["Hoarfrost Peak"]
+        "Locale" : ["Hoarfrost-Peak"]
     },
     {
         "name": "Agnaktor",
@@ -783,7 +783,7 @@
     {
         "name": "Glacial Agnaktor",
         "CR": 8,
-        "Locale" : ["Hoarfrost Peak"]
+        "Locale" : ["Hoarfrost-Peak"]
     },
     {
         "name": "Athal-Ka",
@@ -793,17 +793,17 @@
     {
         "name": "Seltas",
         "CR": 3,
-        "Locale" : ["Moon Meadows", "Moon Swamp"]
+        "Locale" : ["Moon-Meadows", "Moon-Swamp"]
     },
     {
         "name": "Seltas Queen",
         "CR": 11,
-        "Locale" : ["Moon Meadows", "Moon Swamp"]
+        "Locale" : ["Moon-Meadows", "Moon-Swamp"]
     },
     {
         "name": "Beotodus",
         "CR": 12,
-        "Locale" : ["Hoarfrost Peak"]
+        "Locale" : ["Hoarfrost-Peak"]
     },
     {
         "name": "Cephadrome",
@@ -823,12 +823,12 @@
     {
         "name": "Plesioth",
         "CR": 9,
-        "Locale" : ["Moon Swamp"]
+        "Locale" : ["Moon-Swamp"]
     },
     {
         "name": "Green Plesioth",
         "CR": 12,
-        "Locale" : ["Moon Swamp"]
+        "Locale" : ["Moon-Swamp"]
     },
     {
         "name": "Najarala",
@@ -838,17 +838,17 @@
     {
         "name": "Nerscylla",
         "CR": 6,
-        "Locale" : ["Moon Swamp", "Hoarfrost Peak", "Coral Highlands"]
+        "Locale" : ["Moon-Swamp", "Hoarfrost-Peak", "Coral-Highlands"]
     },
     {
         "name": "Fey Nerscylla",
         "CR": 9,
-        "Locale" : ["Moon Swamp", "Hoarfrost Peak", "Coral Highlands"]
+        "Locale" : ["Moon-Swamp", "Hoarfrost-Peak", "Coral-Highlands"]
     },
     {
         "name": "Rakna Kadaki",
         "CR": 17,
-        "Locale" : ["Moon Swamp", "Hoarfrost Peak"]
+        "Locale" : ["Moon-Swamp", "Hoarfrost-Peak"]
     },
     {
         "name": "Pyre Rakna Kadaki",
@@ -858,7 +858,7 @@
     {
         "name": "Great Baggi",
         "CR": 2,
-        "Locale" : ["Hoarfrost Peak", "Coral Highlands"]
+        "Locale" : ["Hoarfrost-Peak", "Coral-Highlands"]
     },
     {
         "name": "Gendrome",
@@ -868,7 +868,7 @@
     {
         "name": "Giadrome",
         "CR": 2,
-        "Locale" : ["Coral Highlands", "Hoarfrost Peak"]
+        "Locale" : ["Coral-Highlands", "Hoarfrost-Peak"]
     },
     {
         "name": "Lodrome",
@@ -878,42 +878,42 @@
     {
         "name": "Great Izuchi",
         "CR": 3,
-        "Locale" : ["Moon Meadows", "Moon Swamp"]
+        "Locale" : ["Moon-Meadows", "Moon-Swamp"]
     },
     {
         "name": "Great Jaggi",
         "CR": 2,
-        "Locale" : ["Moon Meadows", "Moon Swamp"]
+        "Locale" : ["Moon-Meadows", "Moon-Swamp"]
     },
     {
         "name": "Kulu-Ya-Ku",
         "CR": 4,
-        "Locale" : ["Moon Meadows", "Moon Swamp"]
+        "Locale" : ["Moon-Meadows", "Moon-Swamp"]
     },
     {
         "name": "Tzitzi-Ya-Ku",
         "CR": 6,
-        "Locale" : ["Moon Meadows", "Moon Swamp", "Coral Highlands", "Hoarfrost Peak"]
+        "Locale" : ["Moon-Meadows", "Moon-Swamp", "Coral-Highlands", "Hoarfrost-Peak"]
     },
     {
         "name": "Great Maccao",
         "CR": 2,
-        "Locale" : ["Moon Meadows", "Moon Swamp"]
+        "Locale" : ["Moon-Meadows", "Moon-Swamp"]
     },
     {
         "name": "Velocidrome",
         "CR": 1,
-        "Locale" : ["Moon Meadows", "Moon Swamp"]
+        "Locale" : ["Moon-Meadows", "Moon-Swamp"]
     },
     {
         "name": "Great Wrogi",
         "CR": 2,
-        "Locale" : ["Moon Swamp"]
+        "Locale" : ["Moon-Swamp"]
     },
     {
         "name": "Gore Magala",
         "CR": 21,
-        "Locale" : ["Moon Meadows", "Moon Swamp", "Hoarfrost Peak", "Coral Highlands"]
+        "Locale" : ["Moon-Meadows", "Moon-Swamp", "Hoarfrost-Peak", "Coral-Highlands"]
     },
     {
         "name": "Shagaru Magala",

@@ -6,12 +6,13 @@ function generateSeed() {
   const baseSeed = new Date();
 
   let DayIdentifier = "0" + (baseSeed.getDay() + 1).toString();
-  // let MonthIdentifier =
-  //   baseSeed.getMonth() + 1 < 10 ? "0" + baseSeed.getMonth().toString : baseSeed.getMonth().toString();
-  // let DateIdentifier = baseSeed.getDate() < 10 ? "0" + baseSeed.getDate().toString() : baseSeed.getDate().toString();
-  // let YearIdentifier = (baseSeed.getFullYear() + 5).toString();
+  let MonthIdentifier =
+    baseSeed.getMonth() + 1 < 10 ? "0" + baseSeed.getMonth().toString() : baseSeed.getMonth().toString();
+  let DateIdentifier = baseSeed.getDate() < 10 ? "0" + baseSeed.getDate().toString() : baseSeed.getDate().toString();
+  let YearIdentifier = (baseSeed.getFullYear() + 5).toString();
 
-  let Seed = DayIdentifier;
+  let Seed = DayIdentifier + MonthIdentifier + DateIdentifier + YearIdentifier + 1;
+  console.log(DateIdentifier);
   console.log(Seed);
   return Seed;
 }
@@ -37,24 +38,19 @@ const easyMonsterIndex = seededRandom(seed, easyMonsters);
 const mediumMonsterIndex = seededRandom(seed, mediumMonsters);
 const hardMonsterIndex = seededRandom(seed, hardMonsters);
 
-const easyHunt = easyMonsters[easyMonsterIndex];
-const mediumHunt = mediumMonsters[mediumMonsterIndex];
-const hardHunt = hardMonsters[hardMonsterIndex];
-
-console.log(easyMonsterIndex);
-
-const easyHuntLocale = easyHunt.Locale[seededRandom(seed, easyHunt.Locale)];
-const mediumHuntLocale = mediumHunt.Locale[seededRandom(seed, mediumHunt.Locale)];
-const hardHuntLocale = hardHunt.Locale[seededRandom(seed, hardHunt.Locale)];
+const easyHunt = easyMonsters[easyMonsterIndex - 1];
+const mediumHunt = mediumMonsters[mediumMonsterIndex - 1];
+const hardHunt = hardMonsters[hardMonsterIndex - 1];
 
 const Hunts = [easyHunt, mediumHunt, hardHunt];
-const HuntsLocale = [easyHuntLocale, mediumHuntLocale, hardHuntLocale];
+
+const HuntsLocale = [easyHunt.Locale, mediumHunt.Locale, hardHunt.Locale];
 
 Hunts.map((hunt, i) => {
-  console.log(hunt);
-
   const rootContainer = document.querySelector(".container");
   const cardContainer = createElementWithClass("div", "card");
+
+  const generatedRandom = seededRandom(seed, HuntsLocale[i]) - 1;
 
   // Canvas creation
   const cardCanvas = createElementWithClass("canvas", "decocanv");
@@ -66,7 +62,7 @@ Hunts.map((hunt, i) => {
 
   const cardDescription = createElementWithClass("ul", "cardDescription");
   const locale = createElementWithClass("li", "none");
-  const localeText = document.createTextNode(`Locale: ${HuntsLocale[i]}`);
+  const localeText = document.createTextNode(`Locale: ${HuntsLocale[i][generatedRandom]}`);
 
   const reward = createElementWithClass("li", "none");
   const rewardText = document.createTextNode("Rewards: 100gp");
@@ -76,7 +72,7 @@ Hunts.map((hunt, i) => {
 
   // Change card bg image
 
-  cardContainer.style.backgroundImage = `url("./Assets/Locale/${HuntsLocale[i]}.jpg")`;
+  cardContainer.style.backgroundImage = `url("./Assets/Locale/${HuntsLocale[i][generatedRandom]}.jpg")`;
   // Start of constructing the card:
 
   // append Text to li elements
